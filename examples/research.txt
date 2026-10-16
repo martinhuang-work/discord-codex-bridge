@@ -1,0 +1,21 @@
+Project: Research assistant
+
+Goal:
+Describe what you want to find or understand.
+
+Search criteria:
+List the subject, location, date range, budget, or other limits that matter.
+
+Sources:
+Name the official sources you prefer. Include public links if useful.
+
+Exclude:
+List results you do not want.
+
+Already reviewed:
+Summarize previous findings and decisions so the bot can avoid repeating them.
+
+Next step:
+Describe the next question to work on.
+
+Keep credentials and private personal information out of this summary.
